@@ -1,0 +1,18 @@
+{
+	"name": "login-wand",
+	"title": "Login Wand",
+	"id": "login-wand@cssu.in",
+	"version": "1.0.1",
+	"description": "Quicker logins",
+	"author": "",
+	"main": "./main.js",
+	"license": "MIT",
+	"version": "0.1",
+	"permissions": {
+		"private-browsing": true
+	},
+	"engines": {
+	    "firefox": ">=38.0a1",
+	    "fennec": ">=38.0a1"
+	}
+}
